@@ -1,0 +1,1 @@
+RenalRisk is a predictive modeling project designed to detect Chronic Kidney Disease (CKD) at an early stage using patient clinical and demographic data. CKD is often asymptomatic in its early stages, making early prediction essential for preventing progression to kidney failure.
